@@ -5,7 +5,7 @@ class Messages:
     HELP_MSG = [
         ".",
         f"""
-**👋🏻 Hai Selamat Datang Kembali Di [{PROJECT_NAME}](https://telegra.ph/file/ed136c19e7f6afddb4912.jpg)
+**👋🏻 Hai Selamat Datang Kembali Di [{PROJECT_NAME}]
 
 ⚪️ {PROJECT_NAME} Dapat Memutar Musik Di Obrolan Suara Grup Anda Serta Obrolan Suara Saluran
 
@@ -78,15 +78,9 @@ Semua Perintah Bisa Digunakan Kecuali Perintah /player /skip /pause /resume  /en
 - /admincache: Memperbarui Info Admin Grup Anda. Coba Jika Bot Tidak Mengenali Admin
 - /userbotjoin: Undang @{ASSISTANT_NAME} Userbot Ke Grup Anda
 """,
-        f"""👋🏻 Hallo, Nama saya [{PROJECT_NAME}](https://telegra.ph/file/ed136c19e7f6afddb4912.jpg)
-Dikekolah oleh {OWNER}
-・✦▭▭▭▭✧◦✦◦✧▭▭▭▭✦ ・
-☑️ Saya memiliki banyak fitur untuk anda yang suka lagu
-🔘 Memutar lagu di group 
-🔘 Memutar lagu di channel
-🔘 Mendownload lagu
-🔘 Mencari link youtube
-・✦▭▭▭▭✧◦✦◦✧▭▭▭▭✦ ・
-☑️ Klik tombol bantuan untuk informasi lebih lanjut
+        f"""👋🏻 Hallo, 
+🤖 Saya adalah bot canggih yang dibuat untuk memutar musik di obrolan suara Grup & Saluran Telegram.
+
+✅ Kirim aku /help untuk info lebih lanjut.
 """,
     ]
