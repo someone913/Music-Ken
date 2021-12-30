@@ -1,4 +1,4 @@
-from MusicKen.config import ASSISTANT_NAME, OWNER, PROJECT_NAME
+from MusicKen.config import ASSISTANT_NAME, PROJECT_NAME
 
 
 class Messages:
