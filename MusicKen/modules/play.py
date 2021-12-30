@@ -14,7 +14,7 @@ from pytgcalls.types.input_stream import InputAudioStream, InputStream
 from Python_ARQ import ARQ
 from youtube_search import YoutubeSearch
 
-from MusicKen.config import ARQ_API_KEY, DURATION_LIMIT, KENKAN, SUPPORT_GROUP
+from MusicKen.config import ARQ_API_KEY, DURATION_LIMIT, KENKAN
 from MusicKen.config import UPDATES_CHANNEL as updateschannel
 from MusicKen.config import que
 from MusicKen.function.admins import admins as a
@@ -140,9 +140,7 @@ async def playlist(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(
-                        "👦 Owner Bot", url=f"https://t.me/ebnudoang"
-                    ),
+                    InlineKeyboardButton("👦 Owner Bot", url=f"https://t.me/ebnudoang"),
                     InlineKeyboardButton(
                         "💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}"
                     ),
@@ -240,7 +238,7 @@ async def p_cb(b, cb):
                 [
                     [
                         InlineKeyboardButton(
-                           "👦 Owner Bot", url=f"https://t.me/ebnudoang"
+                            "👦 Owner Bot", url=f"https://t.me/ebnudoang"
                         ),
                         InlineKeyboardButton(
                             "💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}"
@@ -473,9 +471,7 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton("📖 ᴘʟᴀʏʟɪꜱᴛ", callback_data="playlist"),
-                    InlineKeyboardButton(
-                        "👦 Owner Bot", url=f"https://t.me/ebnudoang"
-                    ),
+                    InlineKeyboardButton("👦 Owner Bot", url=f"https://t.me/ebnudoang"),
                 ],
                 [
                     InlineKeyboardButton(
@@ -530,9 +526,7 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton("📖 ᴘʟᴀʏʟɪꜱᴛ", callback_data="playlist"),
-                    InlineKeyboardButton(
-                       "👦 Owner Bot", url=f"https://t.me/ebnudoang"
-                    ),
+                    InlineKeyboardButton("👦 Owner Bot", url=f"https://t.me/ebnudoang"),
                 ],
                 [
                     InlineKeyboardButton(
@@ -580,9 +574,7 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton("📖 ᴘʟᴀʏʟɪꜱᴛ", callback_data="playlist"),
-                    InlineKeyboardButton(
-                        "👦 Owner Bot", url=f"https://t.me/ebnudoang"
-                    ),
+                    InlineKeyboardButton("👦 Owner Bot", url=f"https://t.me/ebnudoang"),
                 ],
                 [
                     InlineKeyboardButton(
