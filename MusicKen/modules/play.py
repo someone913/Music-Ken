@@ -141,7 +141,7 @@ async def playlist(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "💬 ɢʀᴏᴜᴘ", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "👦 Owner Bot", url=f"https://t.me/ebnudoang"
                     ),
                     InlineKeyboardButton(
                         "💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}"
@@ -149,7 +149,7 @@ async def playlist(client, message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "💵 ꜱᴀᴡᴇʀɴʏᴀ", url="https://trakteer.id/kenkansaja/tip"
+                        "📍 Instagram", url="https://www.instagram.com/ebnu_am/"
                     ),
                     InlineKeyboardButton(text="🗑 ᴛᴜᴛᴜᴘ", callback_data="cls"),
                 ],
@@ -240,7 +240,7 @@ async def p_cb(b, cb):
                 [
                     [
                         InlineKeyboardButton(
-                            "💬 ɢʀᴏᴜᴘ", url=f"https://t.me/{SUPPORT_GROUP}"
+                           "👦 Owner Bot", url=f"https://t.me/ebnudoang"
                         ),
                         InlineKeyboardButton(
                             "💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}"
@@ -248,7 +248,7 @@ async def p_cb(b, cb):
                     ],
                     [
                         InlineKeyboardButton(
-                            "💵 ꜱᴀᴡᴇʀɴʏᴀ", url="https://trakteer.id/kenkansaja/tip"
+                            "📍 Instagram", url="https://www.instagram.com/ebnu_am/"
                         ),
                         InlineKeyboardButton(text="🗑 ᴛᴜᴛᴜᴘ", callback_data="cls"),
                     ],
@@ -474,7 +474,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton("📖 ᴘʟᴀʏʟɪꜱᴛ", callback_data="playlist"),
                     InlineKeyboardButton(
-                        "💬 ɢʀᴏᴜᴘ", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "👦 Owner Bot", url=f"https://t.me/ebnudoang"
                     ),
                 ],
                 [
@@ -482,7 +482,7 @@ async def play(_, message: Message):
                         "💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}"
                     ),
                     InlineKeyboardButton(
-                        "💵 ꜱᴀᴡᴇʀɴʏᴀ", url="https://trakteer.id/kenkansaja/tip"
+                        "📍 Instagram", url="https://www.instagram.com/ebnu_am/"
                     ),
                 ],
                 [InlineKeyboardButton(text="🗑 ᴛᴜᴛᴜᴘ", callback_data="cls")],
@@ -531,7 +531,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton("📖 ᴘʟᴀʏʟɪꜱᴛ", callback_data="playlist"),
                     InlineKeyboardButton(
-                        "💬 ɢʀᴏᴜᴘ", url=f"https://t.me/{SUPPORT_GROUP}"
+                       "👦 Owner Bot", url=f"https://t.me/ebnudoang"
                     ),
                 ],
                 [
@@ -539,7 +539,7 @@ async def play(_, message: Message):
                         "💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}"
                     ),
                     InlineKeyboardButton(
-                        "💵 ꜱᴀᴡᴇʀɴʏᴀ", url="https://trakteer.id/kenkansaja/tip"
+                        "📍 Instagram", url="https://www.instagram.com/ebnu_am/"
                     ),
                 ],
                 [InlineKeyboardButton(text="🗑 ᴛᴜᴛᴜᴘ", callback_data="cls")],
@@ -581,7 +581,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton("📖 ᴘʟᴀʏʟɪꜱᴛ", callback_data="playlist"),
                     InlineKeyboardButton(
-                        "💬 ɢʀᴏᴜᴘ", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "👦 Owner Bot", url=f"https://t.me/ebnudoang"
                     ),
                 ],
                 [
@@ -589,7 +589,7 @@ async def play(_, message: Message):
                         "💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}"
                     ),
                     InlineKeyboardButton(
-                        "💵 ꜱᴀᴡᴇʀɴʏᴀ", url="https://trakteer.id/kenkansaja/tip"
+                        "📍 Instagram", url="https://www.instagram.com/ebnu_am/"
                     ),
                 ],
                 [InlineKeyboardButton(text="🗑 ᴛᴜᴛᴜᴘ", callback_data="cls")],
@@ -658,12 +658,12 @@ async def stream(_, message: Message):
         [
             [
                 InlineKeyboardButton("📖 ᴘʟᴀʏʟɪꜱᴛ", callback_data="playlist"),
-                InlineKeyboardButton("💬 ɢʀᴏᴜᴘ", url=f"https://t.me/{SUPPORT_GROUP}"),
+                InlineKeyboardButton("👦 Owner Bot", url=f"https://t.me/ebnudoang"),
             ],
             [
                 InlineKeyboardButton("💌 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{updateschannel}"),
                 InlineKeyboardButton(
-                    "💵 ꜱᴀᴡᴇʀɴʏᴀ", url="https://trakteer.id/kenkansaja/tip"
+                    "📍 Instagram", url="https://www.instagram.com/ebnu_am/"
                 ),
             ],
             [InlineKeyboardButton(text="🗑 ᴛᴜᴛᴜᴘ", callback_data="cls")],
